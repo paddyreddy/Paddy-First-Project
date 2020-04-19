@@ -1,4 +1,6 @@
 # Paddy-First-Project
-Its my first project
+
+Hi Myself!
+Its my first project.
 I have started to learn new things based on my own interset.
 Hopefully I will continue like this in the future to learn and update myself for a greater good.
